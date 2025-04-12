@@ -1,0 +1,23 @@
+#EXTM3U
+#EXTINF:-1,Lista 1 - Andromeda
+http://andromeda.dvrcam.info:80/get.php?username=426355418&password=958791672&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 1 - Virtusz
+http://virtusz.zapto.org:80/get.php?username=426355418&password=958791672&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 2 - Andromeda
+http://andromeda.dvrcam.info:80/get.php?username=293678137&password=293884486&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 2 - Virtusz
+http://virtusz.zapto.org:80/get.php?username=293678137&password=293884486&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 3 - Andromeda
+http://andromeda.dvrcam.info:80/get.php?username=981958950&password=598969499&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 3 - Virtusz
+http://virtusz.zapto.org:80/get.php?username=981958950&password=598969499&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 4 - Andromeda
+http://andromeda.dvrcam.info:80/get.php?username=852698929&password=748477319&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 4 - Virtusz
+http://virtusz.zapto.org:80/get.php?username=852698929&password=748477319&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 5 - Andromeda
+http://andromeda.dvrcam.info:80/get.php?username=849413994&password=941635213&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 5 - Virtusz
+http://virtusz.zapto.org:80/get.php?username=849413994&password=941635213&type=m3u_plus&output=ts
+#EXTINF:-1,Lista 6 - Andromeda
+http://andromeda.dvrcam.info:80/get.php?username=428271542&password=938739869&type=m3u_plus&output=ts
