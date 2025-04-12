@@ -1,23 +1,21 @@
 #EXTM3U
-#EXTINF:-1,Lista 1 - Andromeda
-http://andromeda.dvrcam.info:80/get.php?username=426355418&password=958791672&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 1 - Virtusz
-http://virtusz.zapto.org:80/get.php?username=426355418&password=958791672&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 2 - Andromeda
-http://andromeda.dvrcam.info:80/get.php?username=293678137&password=293884486&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 2 - Virtusz
-http://virtusz.zapto.org:80/get.php?username=293678137&password=293884486&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 3 - Andromeda
-http://andromeda.dvrcam.info:80/get.php?username=981958950&password=598969499&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 3 - Virtusz
-http://virtusz.zapto.org:80/get.php?username=981958950&password=598969499&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 4 - Andromeda
-http://andromeda.dvrcam.info:80/get.php?username=852698929&password=748477319&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 4 - Virtusz
-http://virtusz.zapto.org:80/get.php?username=852698929&password=748477319&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 5 - Andromeda
-http://andromeda.dvrcam.info:80/get.php?username=849413994&password=941635213&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 5 - Virtusz
-http://virtusz.zapto.org:80/get.php?username=849413994&password=941635213&type=m3u_plus&output=ts
-#EXTINF:-1,Lista 6 - Andromeda
-http://andromeda.dvrcam.info:80/get.php?username=428271542&password=938739869&type=m3u_plus&output=ts
+#EXTINF:-1 tvg-name="SBT SP" group-title="Abertos",SBT SP
+http://45.178.7.6:8081/SBT/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RECORD SP" group-title="Abertos",RECORD SP
+http://45.178.7.6:8081/RECORD/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Globo RJ" group-title="Abertos",Globo RJ
+http://45.178.7.6:8081/Globo/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Band SP" group-title="Abertos",Band SP
+http://45.178.7.6:8081/BAND/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="RedeTV!" group-title="Abertos",RedeTV!
+http://45.178.7.6:8081/RedeTV/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV Cultura" group-title="Abertos",TV Cultura
+http://45.178.7.6:8081/CULTURA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV Justiça" group-title="Abertos",TV Justiça
+http://45.178.7.6:8081/JUSTICA/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="TV Brasil" group-title="Abertos",TV Brasil
+http://45.178.7.6:8081/BRASIL/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="CNN Brasil" group-title="Notícias",CNN Brasil
+http://45.178.7.6:8081/CNN/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-name="Band News" group-title="Notícias",Band News
+http://45.178.7.6:8081/BANDNEWS/tracks-v1a1/mono.m3u8
