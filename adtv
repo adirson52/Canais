@@ -1,0 +1,63 @@
+#EXTM3U
+
+#EXTINF:-1 tvg-id="RPC" tvg-name="RPC (Globo Paraná)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1b/TV_Globo_logo_2021.svg" group-title="Paraná",RPC (Globo Paraná)
+https://globoplay.globo.com/
+
+#EXTINF:-1 tvg-id="RedeMassa" tvg-name="Rede Massa (SBT Paraná)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/9/9e/SBT_logo_2014.svg" group-title="Paraná",Rede Massa (SBT Paraná)
+https://www.sbt.com.br/
+
+#EXTINF:-1 tvg-id="RICRecord" tvg-name="RIC TV (Record Paraná)" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/6/6b/RecordTV_logo_2016.svg" group-title="Paraná",RIC TV (Record Paraná)
+https://recordtv.r7.com/
+
+#EXTINF:-1 tvg-id="TVEvangelizar" tvg-name="TV Evangelizar" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/8/8e/TV_Evangelizar_logo.png" group-title="Paraná",TV Evangelizar
+https://www.paieterno.com.br/
+
+#EXTINF:-1 tvg-id="TVParanaTurismo" tvg-name="TV Paraná Turismo" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Parana_Turismo_logo.png" group-title="Paraná",TV Paraná Turismo
+https://www.comunicacao.pr.gov.br/tv-ao-vivo
+
+#EXTINF:-1 tvg-id="TVAssembleiaPR" tvg-name="TV Assembleia PR" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/5/5d/TV_Assembleia_PR_logo.png" group-title="Paraná",TV Assembleia PR
+https://www.assembleia.pr.leg.br/tv-assembleia
+
+#EXTINF:-1 tvg-id="TVCultura" tvg-name="TV Cultura" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/4/4f/TV_Cultura_logo.png" group-title="Paraná",TV Cultura
+https://tvcultura.com.br/
+
+#EXTINF:-1 tvg-id="TVGazeta" tvg-name="TV Gazeta" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2e/TV_Gazeta_logo.png" group-title="Paraná",TV Gazeta
+https://www.tvgazeta.com.br/
+
+#EXTINF:-1 tvg-id="TVSenado" tvg-name="TV Senado" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3c/TV_Senado_logo.png" group-title="Paraná",TV Senado
+https://www12.senado.leg.br/tv
+
+#EXTINF:-1 tvg-id="TVCamara" tvg-name="TV Câmara" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/7/7e/TV_Camara_logo.png" group-title="Paraná",TV Câmara
+https://www.camara.leg.br/tv
+
+#EXTINF:-1 tvg-id="SporTV" tvg-name="SporTV" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/SporTV_logo_2013.svg" group-title="Esportes",SporTV
+https://globoplay.globo.com/canais/sportv/
+
+#EXTINF:-1 tvg-id="SporTV2" tvg-name="SporTV 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/SporTV_logo_2013.svg" group-title="Esportes",SporTV 2
+https://globoplay.globo.com/canais/sportv2/
+
+#EXTINF:-1 tvg-id="SporTV3" tvg-name="SporTV 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/17/SporTV_logo_2013.svg" group-title="Esportes",SporTV 3
+https://globoplay.globo.com/canais/sportv3/
+
+#EXTINF:-1 tvg-id="ESPN" tvg-name="ESPN" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg" group-title="Esportes",ESPN
+https://www.espn.com.br/
+
+#EXTINF:-1 tvg-id="ESPN2" tvg-name="ESPN 2" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg" group-title="Esportes",ESPN 2
+https://www.espn.com.br/
+
+#EXTINF:-1 tvg-id="ESPN3" tvg-name="ESPN 3" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg" group-title="Esportes",ESPN 3
+https://www.espn.com.br/
+
+#EXTINF:-1 tvg-id="ESPN4" tvg-name="ESPN 4" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg" group-title="Esportes",ESPN 4
+https://www.espn.com.br/
+
+#EXTINF:-1 tvg-id="ESPN5" tvg-name="ESPN 5" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/2/2f/ESPN_logo.svg" group-title="Esportes",ESPN 5
+https://www.espn.com.br/
+
+#EXTINF:-1 tvg-id="BandSports" tvg-name="BandSports" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/1/1e/BandSports_logo.svg" group-title="Esportes",BandSports
+https://www.band.uol.com.br/bandsports
+
+#EXTINF:-1 tvg-id="Combate" tvg-name="Combate" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Combate_logo.svg" group-title="Esportes",Combate
+https://globoplay.globo.com/canais/combate/
+
+#EXTINF:-1 tvg-id="Premiere" tvg-name="Premiere" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/3/3e/Premiere_logo.svg" group-title="8
